@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Agatha",
+			"oem": "Xiaomi",
+			"device": "Xiaomi Redmi Note 11",
+			"filename": "",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/spes/AlphaDroid-13.0-20230523-spes-core_gapps-v1.5.1.zip/download",
+			"timestamp": 1684792210,
+			"md5": "05ecf913c2ee75f45ed67b196499be01",
+			"sha256": "1fe6ab38874766b17fd16a1cc781f0f6a6f1f24df61165e90b23246bb0a76c4a",
+			"size": 1358650317,
+			"version": "1.5.1",
+			"buildtype": "core_gapps",
+			"forum": "https://t.me/alphadroid_chat",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/alphadroidproject",
+			"telegram": "https://t.me/agathasenpai7",
+			"dt": "https://github.com/AlphaDroid-devices/device_xiaomi_spes",
+			"common-dt": "",
+			"kernel": "https://github.com/AlphaDroid-devices/kernel_xiaomi_spes"
+		}
+	]
+}
